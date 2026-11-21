@@ -2,6 +2,7 @@
 VR mod for Echo Generation 2
 
 
+<img width="1024" height="1536" alt="Neon Voxel VR Heroes" src="https://github.com/user-attachments/assets/c1c14b0f-ef99-430f-a15a-6db50f11b475" />
 
 
 ECHO GENERATION 2 VR  v0.1.6 (test build) - Unity 6000.3.12f1, IL2CPP x64
