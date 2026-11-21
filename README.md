@@ -37,30 +37,21 @@ Battles in first person (card battles)
   - choosing a target: the game's target arrow floats under that fighter's HP bar   [HandHud] TargetTriangleUnderHp
   VR menu -> "Battles (first person)".
 
-Cheats (VR settings menu -> Cheats, both ON by default)
-----------------------------------------------------
-Unlimited HP ... card battles: damage to your party is 0 and its HP stays full; real-time fights: your HP stays
-                 full.                                 [Cheats] UnlimitedHP
-Unlimited SP ... your party's skill points are not spent and stay at their maximum.   [Cheats] UnlimitedSP
 
 Controls (the VR controllers are an Xbox pad)
 --------
   triggers = LT / RT, grips = LB / RB, A B X Y, left stick = move, stick clicks = L3 / R3
+  
   Right stick left / right ..... turn (first person / follow); moves the game's camera (game camera view)
+  
   A + B together ............... Start
+  
   X + Y together ............... Back
+  
   Tap both stick clicks ........ re-centre the view
+  
   Hold both stick clicks 1.2 s . VR settings menu (right stick = choose / change, A = select, B = close)
 
-Please send BepInEx/LogOutput.log after a first try. Useful lines:
-  "VR controllers reach the game through: ..."       (ViGEm or XInput)
-  "Virtual Xbox controller (XInput): the game asked ..."  (only without ViGEm)
-  "Game camera: ...", "Player: ... head ..."         (for first person)
-  "Player arms (...)": left ... right ...             (for the arms)
-  "Cheat patches: 3 ok", "Unlimited HP: ...", "Unlimited SP: ..."
-  "Battle HUD on the hands: ...", "HP bar over ...", "Target arrow: ...", "Timed attack / block icon: ..."
-  "Pause menu open", "Battle started", "View: ..."
-Disable: to disable Mod rename winhttp.dll to winhttp.dll.bak
 
 [VR Mod Manager](https://github.com/King-EJ/VR-Mod-Manager/releases/tag/VRModManager)
 
